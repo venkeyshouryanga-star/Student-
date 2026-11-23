@@ -1,0 +1,6 @@
+{
+  "name": "AcadLedger — Student Marks Management System",
+  "description": "University Student Marks Management System with Role-Based Access Control, real-time marks validation, department analytics, CSV export, and printable digital marksheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
